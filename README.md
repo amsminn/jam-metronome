@@ -1,6 +1,6 @@
-# Jam Metronome
+# Unison
 
-Support page and privacy policy for the Jam Metronome app.
+Support page and privacy policy for the Unison app.
 
 - https://amsminn.github.io/jam-metronome/
 - https://amsminn.github.io/jam-metronome/privacy.html
